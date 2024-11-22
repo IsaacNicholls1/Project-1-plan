@@ -22,8 +22,8 @@ h1 {
     color: var(--secondary-color);
 }
 
-nav {
-    background-color: var(--secondary-color);
+#navbar {
+    background-color: #100A33;
     color: var(--primary-color);
     padding: var(--padding);
     margin: 0;
